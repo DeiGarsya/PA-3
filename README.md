@@ -92,4 +92,6 @@ cars['Model'].isin(['Mazda RX4 Wag','Ford Pantera L','Honda Civic']) Here we sea
 ``` python
 cars.loc[cars['Model'].isin(['Mazda RX4 Wag','Ford Pantera L','Honda Civic']), ['Model','cyl','gear']]
 ```
+
+___
 [Changes within repository](https://github.com/DeiGarsya/PA-3/commits/main/)
